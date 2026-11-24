@@ -1,0 +1,9 @@
+Write one original one-line joke about office life, at most 200 characters, for a head-to-head AI judge competition.
+
+The joke must:
+- Be clearly about office life, with a specific office detail (not a generic grumble about work).
+- Earn its laugh with a turn, misdirection, or flash of recognition that pays off in the last few words.
+- Be fresh — a familiar setup taken somewhere unexpected, not a joke the reader has met before.
+- Read cleanly in one pass, tight enough that no word could be cut without loss.
+
+Avoid cliché setups (e.g. "think outside the box", "this meeting could have been an email" stated flatly). Aim for a concrete, relatable office scenario whose punchline makes the situation worse in a funny, self-inflicted way. The reply-all email storm is the chosen scenario: asking to be removed from a thread by replying-all to everyone on it.
